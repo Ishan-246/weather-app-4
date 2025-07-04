@@ -13,11 +13,11 @@ A React-based app that shows real-time weather for a given city using a weather 
 - OpenWeatherMap API
 - CSS
 
-## 📦 How to Run
+##  How to Run
 1. Clone this repo
 2. Run `npm install`
 3. Run `npm start`
 4. Replace `YOUR_API_KEY` in the code with your OpenWeatherMap API key
 
-## 👨‍💻 Author
+## Author
 Made by Ishan-246
